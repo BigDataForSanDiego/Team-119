@@ -8,7 +8,7 @@
 
 #### Team Members `Kian Agheli - github.com/arghkevin; Alina Garcia; Antonio Valenzuela; Alex Carrillo`
 
-#### Your teamâ€™s hackathon idea in One sentence:
+#### Your team's hackathon idea in One sentence:
 ##### `Slightly challenging but friendly puzzle game intended for daily interaction through phones or public access computers, enforcing empathy and rewarding consistent participation by marking the individual as being able to maintain consistent and healthy behavior.`
 
 #### A visual
