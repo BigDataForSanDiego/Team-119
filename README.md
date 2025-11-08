@@ -27,10 +27,10 @@
 - [ ] Housing and Employment Pathways
 > - Web platforms that connect homeless individuals to affordable housing opportunities, job training programs, or employment resources.
 > - Question: What digital web platforms or systems can help individuals experiencing homelessness navigate the path toward stable housing and employment, including skills training, job placement, and housing referrals? 
-- [ ] Safety and Community Engagement
+- [x] Safety and Community Engagement
 > - Solutions to increase personal safety, prevent violence, and foster community support and empathy networks for homeless people.
 > - Question: How might we design technological solutions that improve safety for unhoused individuals, reduce violence, and build empathy and community support through storytelling, social engagement, or civic partnerships?
-- [ ] Data-Driven Policy and User-Centered Resource Planning
+- [x] Data-Driven Policy and User-Centered Resource Planning
 > - Use of geospatial and demographic data to better understand homeless population trends, optimize resource allocation, and support policy advocacy.
 > - Question: How can we use geospatial data, census data, and AI to map trends in homelessness, identify service gaps, and support equitable decision making and public advocacy
 - [ ] Other Possible Topics
