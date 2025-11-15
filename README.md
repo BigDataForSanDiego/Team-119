@@ -6,7 +6,7 @@
 
 #### Team Coordinator GitHub Username: `arghkevin`
 
-#### Team Members `Kian Agheli - github.com/arghkevin; Alina Garcia; Antonio Valenzuela; Alex Carrillo`
+#### Team Members `Kian Agheli - github.com/arghkevin`
 
 #### Your team's hackathon idea in One sentence:
 ##### `Slightly challenging but friendly puzzle game intended for daily interaction through phones or public access computers, enforcing empathy and rewarding consistent participation by marking the individual as being able to maintain consistent and healthy behavior, incentivized via partnerships with local government programs.`
